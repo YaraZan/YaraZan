@@ -12,27 +12,31 @@
 - Backend: **Laravel**
 
 ## Языки программирования 👨‍💻
-<img alt="javascript" style="width: 32px" src="images/pl/javascript.png">
-<img alt="typescript" style="width: 32px" src="images/pl/typescript.png">
-<img alt="html" style="width: 32px" src="images/pl/html.png">
-<img alt="css" style="width: 32px" src="images/pl/css.png">
-<img alt="kotlin" style="width: 32px" src="images/pl/kotlin.png">
-<img alt="python" style="width: 32px" src="images/pl/python.png">
-<img alt="java" style="width: 32px" src="images/pl/java.png">
-<img alt="php" style="width: 32px" src="images/pl/php.png">
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img alt="javascript" style="width: 32px" src="images/pl/javascript.png">
+    <img alt="typescript" style="width: 32px" src="images/pl/typescript.png">
+    <img alt="html" style="width: 32px" src="images/pl/html.png">
+    <img alt="css" style="width: 32px" src="images/pl/css.png">
+    <img alt="kotlin" style="width: 32px" src="images/pl/kotlin.png">
+    <img alt="python" style="width: 32px" src="images/pl/python.png">
+    <img alt="java" style="width: 32px" src="images/pl/java.png">
+    <img alt="php" style="width: 32px" src="images/pl/php.png">
+</div>
 
 ## Мой стек технологий 🛠️
-<img alt="vue" style="width: 32px" src="images/tech/vue.png">
-<img alt="laravel" style="width: 32px" src="images/tech/laravel.png">
-<img alt="fastapi" style="width: 32px" src="images/tech/fastapi.png">
-<img alt="nodejs" style="width: 32px" src="images/tech/nodejs.png">
-<img alt="tensorflow" style="width: 32px" src="images/tech/tensorflow.png">
-<img alt="vite" style="width: 32px" src="images/tech/vite.png">
-<img alt="postgre" style="width: 32px" src="images/tech/postgre.png">
-<img alt="apache" style="width: 32px" src="images/tech/apache.png">
-<img alt="composer" style="width: 32px" src="images/tech/composer.png">
-<img alt="npm" style="width: 32px" src="images/tech/npm.png">
-<img alt="tailwind" style="width: 32px" src="images/tech/tailwind.png">
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img alt="vue" style="width: 32px" src="images/tech/vue.png">
+    <img alt="laravel" style="width: 32px" src="images/tech/laravel.png">
+    <img alt="fastapi" style="width: 32px" src="images/tech/fastapi.png">
+    <img alt="nodejs" style="width: 32px" src="images/tech/nodejs.png">
+    <img alt="tensorflow" style="width: 32px" src="images/tech/tensorflow.png">
+    <img alt="vite" style="width: 32px" src="images/tech/vite.png">
+    <img alt="postgre" style="width: 32px" src="images/tech/postgre.png">
+    <img alt="apache" style="width: 32px" src="images/tech/apache.png">
+    <img alt="composer" style="width: 32px" src="images/tech/composer.png">
+    <img alt="npm" style="width: 32px" src="images/tech/npm.png">
+    <img alt="tailwind" style="width: 32px" src="images/tech/tailwind.png">
+</div>
 
 ## Мои увлечения 🌟
 
@@ -41,8 +45,10 @@
 Хоть я и не профессиональный дизайнер, я всегда стремлюсь создать удобный и интересный интерфейс. 
 Часто я ищу вдохновение на Dribbble, изучая различные идеи и концепции для своих проектов.
 
-<img alt="javascript" style="width: 32px" src="images/tech/figma.png">
-<img alt="javascript" style="width: 32px" src="images/tech/dribble.png">
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img alt="javascript" style="width: 32px" src="images/tech/figma.png">
+    <img alt="javascript" style="width: 32px" src="images/tech/dribble.png">
+</div>
 
 ### Видеоигры 🎮
 🔥 **Doom Eternal**
