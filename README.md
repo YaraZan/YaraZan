@@ -1,17 +1,20 @@
-# Привет, меня зовут Ярослав! 👋
+# Hi, my name is Yaroslav! 👋
 
-Я молодой fullstack разработчик, который каждый день открывает для себя что-то новое в мире программирования 🌟
+I'm a young fullstack developer who discovers something new in the world of programming every day 🌟
 
-![https://t.me/yarazanax](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
-![https://discordapp.com/users/621357395381059601](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)
-![a9172607998@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/yarazanax)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/621357395381059601)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:a9172607998@gmail.com)
 
-## Любимые инструменты ❤️
-- ML: **TensorFlow** 
-- Frontend: **Vue.js**
-- Backend: **Laravel**
 
-## Языки программирования 👨‍💻
+## 💜 Favorite Tools
+🟣 Frontend: **Vue.js**
+
+🟣 Backend: **Laravel**
+
+🟣 ML: **TensorFlow** 
+
+## 💜 Programming Languages
 <div style="display: flex; align-items: center; gap: 5px;">
     <img alt="javascript" style="width: 32px" src="images/pl/javascript.png">
     <img alt="typescript" style="width: 32px" src="images/pl/typescript.png">
@@ -23,7 +26,7 @@
     <img alt="php" style="width: 32px" src="images/pl/php.png">
 </div>
 
-## Мой стек технологий 🛠️
+## 💜 Tech stack
 <div style="display: flex; align-items: center; gap: 5px;">
     <img alt="vue" style="width: 32px" src="images/tech/vue.png">
     <img alt="laravel" style="width: 32px" src="images/tech/laravel.png">
@@ -38,31 +41,30 @@
     <img alt="tailwind" style="width: 32px" src="images/tech/tailwind.png">
 </div>
 
-## Мои увлечения 🌟
+## 💜 Hobbies
 
-### Дизайн веб-сайтов 
-Для меня дизайн это возможность добавить в работу неного эстетики ✨. 
-Хоть я и не профессиональный дизайнер, я всегда стремлюсь создать удобный и интересный интерфейс. 
-Часто я ищу вдохновение на Dribbble, изучая различные идеи и концепции для своих проектов.
+### Web Design
+For me, design is an opportunity to add a touch of aesthetics to my work. While I'm not a professional designer, I always strive to create a user-friendly and engaging interface. I often seek inspiration on Dribbble, exploring various ideas and concepts for my projects.
 
-<div style="display: flex; align-items: center; gap: 5px;">
-    <img alt="javascript" style="width: 32px" src="images/tech/figma.png">
-    <img alt="javascript" style="width: 32px" src="images/tech/dribble.png">
-</div>
+    🟣 Figma
 
-### Видеоигры 🎮
-🔥 **Doom Eternal**
+    🟣 Adobe Illustrator
 
-🔥 **Hotline Miami**
+    🟣 Adobe Photoshop
 
-🔥 **COD MW2 Multiplayer**
 
-🔥 **Unreal Tournament**
+### Games
+    🟣 Doom Eternal
 
-### Спортзал 💪
-В свободное время от работы я стремлюсь к совершенству не только в виртуальном мире, но и в реальной жизни. 
-Посещение спортзала для меня - это не только способ поддерживать физическую форму, но и путь к улучшению самого себя, духовно и физически.
+    🟣 Hotline Miami
 
-## Моя цель 🎯
-Моя цель - не просто создавать программные продукты, а делать их лучше.
-Я верю, что мир может стать лучше благодаря технологиям, и я готов внести свой вклад в это.
+    🟣 COD MW2 Multiplayer
+
+    🟣 Unreal Tournament
+
+
+### Gym
+In my free time from work, I strive for excellence not only in the virtual world but also in real life. Going to the gym for me is not only a way to maintain physical fitness, but also a path to self-improvement, spiritually and physically.
+
+## 💜 My Goal
+My goal is not just to create software products, but to make them better. I believe that the world can become better thanks to technology, and I am ready to contribute to this.
