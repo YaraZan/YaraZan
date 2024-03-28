@@ -1,32 +1,51 @@
 # Hi, my name is Yaroslav! 👋
 
-I'm a young fullstack developer who discovers something new in the world of programming every day 🌟
+```js
+const ME = {
+    name: 'Potyomkin Yaroslav',
+    age: 19,
+    profession: 'Fullstack developer',
+    bio: 'I`m a young developer who discovers something new
+    in the world of programming every day 🌟',
+    about: {
+        interests: ['Programming', 'Design' 'Music', 'Reading', 'Gym'],
+        motto: 'It`s crucial to keep the initial goal in sight and focus on the result,
+        not just the process.'
+    }
+
+};
+```
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/yarazanax)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/621357395381059601)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:a9172607998@gmail.com)
 
+## 🛠️ Tools i use
 
-## 💜 Favorite Tools
-🟣 Frontend: **Vue.js**
+<br/>
 
-🟣 Backend: **Laravel**
+### Frameworks
+    🟣 Frontend: Vue.js
 
-🟣 ML: **TensorFlow** 
+    🟣 Backend: Laravel
 
-## 💜 Programming Languages
+    🟣 ML: TensorFlow
+
+<br/>
+
+### Programming Languages
 <div style="display: flex; align-items: center; gap: 5px;">
     <img alt="javascript" style="width: 32px" src="images/pl/javascript.png">
     <img alt="typescript" style="width: 32px" src="images/pl/typescript.png">
-    <img alt="html" style="width: 32px" src="images/pl/html.png">
-    <img alt="css" style="width: 32px" src="images/pl/css.png">
-    <img alt="kotlin" style="width: 32px" src="images/pl/kotlin.png">
     <img alt="python" style="width: 32px" src="images/pl/python.png">
-    <img alt="java" style="width: 32px" src="images/pl/java.png">
     <img alt="php" style="width: 32px" src="images/pl/php.png">
+    <img alt="java" style="width: 32px" src="images/pl/java.png">
+    <img alt="kotlin" style="width: 32px" src="images/pl/kotlin.png">
 </div>
 
-## 💜 Tech stack
+<br/>
+
+### Tech stack
 <div style="display: flex; align-items: center; gap: 5px;">
     <img alt="vue" style="width: 32px" src="images/tech/vue.png">
     <img alt="laravel" style="width: 32px" src="images/tech/laravel.png">
@@ -41,10 +60,9 @@ I'm a young fullstack developer who discovers something new in the world of prog
     <img alt="tailwind" style="width: 32px" src="images/tech/tailwind.png">
 </div>
 
-## 💜 Hobbies
+<br/>
 
 ### Web Design
-For me, design is an opportunity to add a touch of aesthetics to my work. While I'm not a professional designer, I always strive to create a user-friendly and engaging interface. I often seek inspiration on Dribbble, exploring various ideas and concepts for my projects.
 
     🟣 Figma
 
@@ -52,19 +70,7 @@ For me, design is an opportunity to add a touch of aesthetics to my work. While 
 
     🟣 Adobe Photoshop
 
+<br/>
 
-### Games
-    🟣 Doom Eternal
-
-    🟣 Hotline Miami
-
-    🟣 COD MW2 Multiplayer
-
-    🟣 Unreal Tournament
-
-
-### Gym
-In my free time from work, I strive for excellence not only in the virtual world but also in real life. Going to the gym for me is not only a way to maintain physical fitness, but also a path to self-improvement, spiritually and physically.
-
-## 💜 My Goal
+## 🎯 My Goal
 My goal is not just to create software products, but to make them better. I believe that the world can become better thanks to technology, and I am ready to contribute to this.
