@@ -22,16 +22,12 @@ const ME = {
 
 ## 🛠️ Tools i use
 
-<br/>
-
 ### Frameworks
     🟣 Frontend: Vue.js
 
     🟣 Backend: Laravel
 
     🟣 ML: TensorFlow
-
-<br/>
 
 ### Programming Languages
 <div style="display: flex; align-items: center; gap: 5px;">
@@ -42,8 +38,6 @@ const ME = {
     <img alt="java" style="width: 32px" src="images/pl/java.png">
     <img alt="kotlin" style="width: 32px" src="images/pl/kotlin.png">
 </div>
-
-<br/>
 
 ### Tech stack
 <div style="display: flex; align-items: center; gap: 5px;">
@@ -59,8 +53,6 @@ const ME = {
     <img alt="npm" style="width: 32px" src="images/tech/npm.png">
     <img alt="tailwind" style="width: 32px" src="images/tech/tailwind.png">
 </div>
-
-<br/>
 
 ### Web Design
 
