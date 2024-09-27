@@ -3,7 +3,7 @@
 ```js
 const ME = {
     name: 'Potyomkin Yaroslav',
-    age: 19,
+    age: 20,
     profession: 'Fullstack developer',
     bio: 'I`m a young developer who discovers something new
     in the world of programming every day 🌟',
